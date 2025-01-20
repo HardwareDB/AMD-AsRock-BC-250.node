@@ -9,5 +9,9 @@ sch: https://www.google.com/search?q=AsRock+BC250
 ## Doc:
 https://github.com/mothenjoyer69/bc250-documentation
 
-discuss:
+## discuss:
 - https://www.reddit.com/r/linux_gaming/comments/1f68iy7/bc250_gaming/
+- https://linustechtips.com/topic/1483719-amd-bc-250-mining-cardgpu/
+
+# benchmark.Cryptocurrency:
+- https://www.hashrate.no/gpus/bc250
