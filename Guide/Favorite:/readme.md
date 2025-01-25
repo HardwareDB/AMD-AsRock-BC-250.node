@@ -1,0 +1,1 @@
+- [I Ran PS3 Games on PS5 Silicon to Prove Sony Wrong](https://youtu.be/_zbw_A9dIWM)
