@@ -5,6 +5,11 @@ $60/node
 - https://www.ebay.com/itm/267135104332
 - https://www.ebay.com/itm/335786051109
 
+$60
+- https://www.ebay.com/itm/335786051109
+
+$75
+- https://www.ebay.com/itm/267135104332
 
 # With Cooling Fan
 $50/node
@@ -15,7 +20,4 @@ $55/node
 
 $60
 - https://www.ebay.com/itm/305942883103
-- https://www.ebay.com/itm/335786051109
 
-$75
-- https://www.ebay.com/itm/267135104332
