@@ -16,7 +16,7 @@ $50/node
 - https://www.ebay.com/itm/306089654152
 
 $55/node
-- https://www.ebay.com/itm/306089654152
+- https://www.ebay.com/itm/306056752974
 
 $60
 - https://www.ebay.com/itm/305942883103
